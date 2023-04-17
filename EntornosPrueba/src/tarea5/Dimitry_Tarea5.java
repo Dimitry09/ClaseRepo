@@ -6,6 +6,7 @@ public class Dimitry_Tarea5 {
 		// TODO Auto-generated method stub
 
 		String frase="Hello World";
+		String ff = "VIVA";
 		System.out.println(frase);
 	}
 
